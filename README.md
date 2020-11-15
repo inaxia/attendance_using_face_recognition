@@ -1,15 +1,16 @@
-## Attendance using Face Recognition
-![](https://www.sodapdf.com/blog/wp-content/uploads/2020/01/Facial-recognition-thumbnail-1024x537.jpg "Attendance using Face Recognition")
+![](https://www.itsguru.com/wp-content/uploads/2020/02/Facial-Recognition.jpg "Attendance using Face Recognition")
+# Attendance using Face Recognition
+This project is made to take attendance in organisation(s). This uses face recognition to check a person's identity and mark him/her present or absent accordingly.
 
 ## Project Description
-Godseye is an **AI based project** working on the principle of **Computer Vision**. <br>
+This is an **AI based project** working on the principle of **Computer Vision**. <br>
 Using digital images and live feed it detects and **recognizes human face** and **mark their attendance**. <br>
 The sole purpose of this model is to detect a person and add their details separately in Attendance list. <br>
 
 ## Novelty
 - Instead of working on a single face, our model can **recognize multiple face in one frame**.
 - Our model not only recognizes a face but also **mark attendance** of that recognized person.
-- Our model update Attendance list in **real-time** (as soon as it recognizes a person).
+- Our model update Attendance list **in real-time** (as soon as it recognizes a person).
 
 ## Real-time Usage
 - Firstly, we **open the webcam** to take images of people present in front of the camera.
@@ -32,8 +33,8 @@ The sole purpose of this model is to detect a person and add their details separ
 |19BCE10314|Nandita|09:16:23|
 
 ## Result & Discussion
-- This method can detect multiple face in one frame and can be easily used in a classroom or in an office.
-- This system helps us to achieve desired results with better accuracy and less time consumption.
+- This method can **detect multiple face** in one frame and can be easily used in a classroom or in an office.
+- This system helps us to achieve desired results with **better accuracy** and less time consumption.
 - The precision or the accuracy of face recognition of our model is almost **more than 90%**.
 
 ## Conclusion
