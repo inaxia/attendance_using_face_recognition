@@ -7,6 +7,10 @@ This is an **AI based project** working on the principle of **Computer Vision**.
 Using digital images and live feed it detects and **recognizes human face** and **mark their attendance**. <br>
 The sole purpose of this model is to detect a person and add their details separately in Attendance list. <br>
 
+## Community
+**[Code of Conduct](https://github.com/inaxia/attendance_using_face_recognition/blob/master/CODE_OF_CONDUCT.md)**<br>
+**[Contributing to Inaxia](https://github.com/inaxia/attendance_using_face_recognition/blob/master/CONTRIBUTING.md)**
+
 ## Novelty
 - Instead of working on a single face, our model can **recognize multiple face in one frame**.
 - Our model not only recognizes a face but also **mark attendance** of that recognized person.
@@ -48,7 +52,6 @@ real-time attendance to meet the need for automatic
 classroom evaluation.
 
 ## Steps to Run
-- Each **.py** file has a specific work to perform (Commented in the starting of that file) and **videoCode[final.py]**
 1. Fork this repo
 2. Clone the forked repo to your local system
 3. Install the following libraries: (in **Linux** or **macOS**)
@@ -58,7 +61,14 @@ classroom evaluation.
    4. `math`
    5. `numpy`
    6. `datetime`
-4. Run the code
+4. Add your image inside `imageData` folder in **format** -> `name.registration.jpg`, if adding more than one image of same person then **format** -> `name.registration.(0,1,2).jpg`, only after that it will recognize you. 
+5. Run the code -> `code.py`
+6. If it will recognise you, your attendance will be there in `Attendance.csv` file
+
+**(Provide more than one image with different angle to get more accuracy)**
+
+## Reference link
+(Use this link when you unable to import **face_recognition** library) https://ourcodeworld.com/articles/read/841/how-to-install-and-use-the-python-face-recognition-and-detection-library-in-ubuntu-16-04
 
 ## Support
 If you like this project, don't forget to give it a ⭐

@@ -1,12 +1,22 @@
 # Code of Conduct
-Just a few things to keep in mind to keep **inaxia**'s environment respectful & professional.
-- Be welcoming to new contributors
-- Be professional and respectful to everyone
-- Listen and understand other person's point before responding
-- Respect other's work and culture
-- If you don't agree with a purticular solution or a purticular person, talk to them try to understand their point of view and come up with a mediocre solution
-    - If you're still not satisfied, then share your doubts and reviews with the maintainers so that they could share their views regarding the same. The maintainers are:
-        - [@Hardikkr](https://github.com/Hardikkr)
-        - [@Nishant2907](https://github.com/Nishant2907)
-    - Everyone should agree with the final solution
-- Feel free to ask any doubt about the project
+We expect every contributors of Inaxia to follow some basic rules to keep our environment clean and dignified.
+
+## Welcome new contributors
+- Encourage every new contributors to contribute to any repo they like
+- Respect all kinds of contributions, be it a documentation, a small part of code or fixing typos
+- Help them to understand the codebase
+- Don't feel irritated if they ask any beginner questions, be helpful
+
+## Be professional & respectful
+- Recpect every people, their culture as well as their work
+- Don't try to outsmart or disrespect anyone
+- Treat everyone equally and don't judge anyone
+
+## Conflict resolution
+- Most of the conflicts or disagreement happen because people don't listen or understand other's point of view
+- So, the people who disagree for a puticular solution should get together and try to understand each other's point, work together and come to a final solution
+
+## Asking questions
+- Don't feel afraid to ask any beginner question just because you feel it's very simple question to ask
+- If you don't know something, it's totally ok
+- It maybe a simple question for some experienced developers but for some it may help to learn something new
