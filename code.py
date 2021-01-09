@@ -34,14 +34,14 @@ def getAccuracy(faceDistance, faceMatchThreshold = 0.6):
         return linearValue + ((1.0 - linearValue) * math.pow((linearValue - 0.5) * 2, 0.2))
 
 # FOR GETTING PATH, NAME, REGISTRATION NO. AND ENCODINGS OF EACH PERSON
-allPaths = os.listdir("videoTestAssets")
+allPaths = os.listdir("imageData")
 allNames = []
 allRegNumbers = []
 allEncodings = []
 for index in range(len(allPaths)):
     allNames.append(allPaths[index].split(".")[0])
     allRegNumbers.append(allPaths[index].split(".")[1])
-    image = face_recognition.load_image_file("videoTestAssets/" + allPaths[index])
+    image = face_recognition.load_image_file("imageData/" + allPaths[index])
     temp = face_recognition.face_encodings(image)[0]
     allEncodings.append(temp)
 
